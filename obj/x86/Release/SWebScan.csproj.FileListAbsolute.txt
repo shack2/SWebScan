@@ -1,0 +1,9 @@
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\bin\x86\Release\SWebScan.exe
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\bin\x86\Release\SWebScan.pdb
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\x86\Release\SWebVulnsScan.FrmMain.resources
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\x86\Release\SWebScan.Properties.Resources.resources
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\x86\Release\SWebScan.csproj.GenerateResource.Cache
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\x86\Release\SWebScan.exe
+G:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\x86\Release\SWebScan.pdb
+G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\obj\x86\Release\SWebScan.exe
+G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\obj\x86\Release\SWebScan.pdb

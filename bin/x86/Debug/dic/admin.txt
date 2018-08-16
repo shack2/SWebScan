@@ -1,0 +1,6 @@
+/admin
+/sysadmin
+/manage
+/admin/login.jsp
+/sysadmin/login.jsp
+/manage/login.jsp

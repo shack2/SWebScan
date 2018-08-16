@@ -1,0 +1,5 @@
+info:-输入字符串的格式不正确。----将字符串[休眠]转换成数字发生错误----！----2017/4/22 2:50:51
+info:-输入字符串的格式不正确。----将字符串[休眠]转换成数字发生错误----！----2017/4/22 4:12:42
+http://www.cnbeta.com:8080/manager/html----getHttpHeaderByTCP请求发生异常！TimeOut Exception----2017/4/22 4:13:13
+http://www.cnbeta.com:9080/ibm/console/secure/logon.do----getHttpHeaderByTCP请求发生异常！TimeOut Exception----2017/4/22 4:13:13
+http://www.cnbeta.com8080:manager/html----getHttpHeaderByTCP请求发生异常！无效的 URI: 指定的端口无效。----2017/4/22 4:13:14

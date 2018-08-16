@@ -1,0 +1,3 @@
+/config/config_global.php.bak
+/config/config_ucenter.php.bak
+/config.inc.php.bak
