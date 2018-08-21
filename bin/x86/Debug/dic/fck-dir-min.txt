@@ -1,4 +1,0 @@
-/fckeditor/editor/
-/Fckeditor/editor/
-/admin/fckeditor/editor/
-/js/fckeditor/editor/

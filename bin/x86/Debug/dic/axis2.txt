@@ -1,3 +1,0 @@
-/axis2-admin/
-/axis2/
-/axis2-web/

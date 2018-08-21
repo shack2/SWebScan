@@ -1,8 +1,0 @@
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebScan.csprojResolveAssemblyReference.cache
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebVulnsScan.FrmMain.resources
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebScan.csproj.GenerateResource.Cache
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\bin\Debug\SWebScan.exe
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\bin\Debug\SWebScan.pdb
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebScan.Properties.Resources.resources
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebScan.exe
-H:\MyCoding\c#\2017\SWebScanV4\SWebVulnsScan\obj\Debug\SWebScan.pdb

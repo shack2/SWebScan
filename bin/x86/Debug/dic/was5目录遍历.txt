@@ -1,1 +1,0 @@
-/was5/web/tree?treefile=/WEB-INF/classes/com/trs/was/resource/wasconfig.properties
