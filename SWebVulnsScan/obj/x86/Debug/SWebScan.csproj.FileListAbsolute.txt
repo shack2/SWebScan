@@ -20,5 +20,4 @@ G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\obj\x86\Debug\SWebScan.Properties.R
 G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\obj\x86\Debug\SWebScan.csproj.GenerateResource.Cache
 G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\bin\x86\Debug\SWebScan.exe
 G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\bin\x86\Debug\SWebScan.pdb
-G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\bin\x86\Debug\FiddlerCore4.dll
 G:\MyCoding\c#\2017\SWebScanV5\SWebVulnsScan\obj\x86\Debug\SWebScan.csprojResolveAssemblyReference.cache
